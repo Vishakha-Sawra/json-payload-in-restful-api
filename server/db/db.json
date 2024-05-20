@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "title": "Fake Title 1",
+        "author": "Fake Author 1",
+        "content": "This is fake content 1.",
+        "category": "Fake Category 1",
+        "tags": [
+            "Fake Tag 1"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Fake Title 2",
+        "author": "Fake Author 2",
+        "content": "This is fake content 2.",
+        "category": "Fake Category 2",
+        "tags": [
+            "Fake Tag 2"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Fake Title 3",
+        "author": "Fake Author 3",
+        "content": "This is fake content 3.",
+        "category": "Fake Category 3",
+        "tags": [
+            "Fake Tag 3"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Fake Title 4",
+        "author": "Fake Author 4",
+        "content": "This is fake content 4.",
+        "category": "Fake Category 4",
+        "tags": [
+            "Fake Tag 4"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Fake Title 5",
+        "author": "Fake Author 5",
+        "content": "This is fake content 5.",
+        "category": "Fake Category 5",
+        "tags": [
+            "Fake Tag 5"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Fake Title 6",
+        "author": "Fake Author 6",
+        "content": "This is fake content 6.",
+        "category": "Fake Category 6",
+        "tags": [
+            "Fake Tag 6"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Fake 7",
+        "content": "Fake 7",
+        "category": "Fake 7",
+        "tags": [
+            "Fake 7"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Fake 5",
+        "content": "Fake 5",
+        "category": "Fake 5",
+        "tags": [
+            "Fake 5"
+        ]
+    }
+]
